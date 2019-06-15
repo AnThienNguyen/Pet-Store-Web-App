@@ -3,9 +3,7 @@
 ## An Nguyen
 
 MVC framework, using basic client-side, server-side validation.
-
 Prepared statements to help prevent SQL injecttion.
-
 JTSL to prevent XSS. Also, completes CRUD functionality.
 
 ### Screenshots:
