@@ -1,4 +1,4 @@
-# Pet Store Web Apps
+# Pet Store Web App
 
 ## An Nguyen
 
