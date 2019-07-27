@@ -2,11 +2,8 @@
 
 ## An Nguyen
 
-MVC framework, using basic client-side, server-side validation.
-
-Prepared statements to help prevent SQL injecttion.
-
-JTSL to prevent XSS. Also, completes CRUD functionality.
+A web application that can record, track, and maintain relevant company data. This project was made to learn more about MVC framework, using basic client-side, server-side validation.
+The Pet Store database is created in MySQL and is used to link to the web application and for testing. Java Servlets and JSP were used to create add, delete, and edit functions in the web application. JQuery was used for form validation, prepared statements were used to help prevent SQL injection, and JTSL was used to prevent XSS. Also, completes CRUD functionality.
 
 ### Screenshots:
 
